@@ -20,9 +20,9 @@ int main()
 {
     int x = 3;
 
-    tailRecursion(3);
+    tailRecursion(3);   // output: 3 2 1
     cout << endl;
-    headRecursion(3);
+    headRecursion(3);   // output: 1 2 3
 
     return 0;
 }
