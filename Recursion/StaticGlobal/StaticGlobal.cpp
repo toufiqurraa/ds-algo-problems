@@ -20,7 +20,7 @@ int main()
 
     r = func(5);
 
-    cout << r;
+    cout << r;  // output: 30
 
     return 0;
 }
