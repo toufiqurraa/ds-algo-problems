@@ -13,7 +13,7 @@ void treeRecursion(int n) {
 
 int main()
 {
-    treeRecursion(3);
+    treeRecursion(3);   // output: 3 2 1 1 2 1 1
 
     return 0;
 }
